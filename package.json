@@ -1,0 +1,29 @@
+{
+  "name": "fitness",
+  "version": "1.0.0",
+  "description": "fitness exercise helper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weerawit32/portfolio-2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weerawit32/portfolio-2/issues"
+  },
+  "homepage": "https://github.com/weerawit32/portfolio-2#readme",
+  "dependencies": {
+    "@types/react-redux": "^7.1.24",
+    "axios": "^0.27.2",
+    "bootstrap": "^5.2.0",
+    "react-bootstrap": "^2.5.0",
+    "react-redux": "^8.0.2",
+    "react-router-dom": "^6.3.0",
+    "redux": "^4.2.0",
+    "redux-thunk": "^2.3.0"
+  }
+}
